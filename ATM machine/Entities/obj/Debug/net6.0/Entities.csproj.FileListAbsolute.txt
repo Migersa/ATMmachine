@@ -1,0 +1,98 @@
+C:\Users\Migersa\Desktop\ATM machine\ATM machine\Entities\bin\Debug\net6.0\Entities.deps.json
+C:\Users\Migersa\Desktop\ATM machine\ATM machine\Entities\bin\Debug\net6.0\Entities.runtimeconfig.json
+C:\Users\Migersa\Desktop\ATM machine\ATM machine\Entities\bin\Debug\net6.0\Entities.dll
+C:\Users\Migersa\Desktop\ATM machine\ATM machine\Entities\bin\Debug\net6.0\Entities.pdb
+C:\Users\Migersa\Desktop\ATM machine\ATM machine\Entities\obj\Debug\net6.0\Entities.csproj.AssemblyReference.cache
+C:\Users\Migersa\Desktop\ATM machine\ATM machine\Entities\obj\Debug\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Migersa\Desktop\ATM machine\ATM machine\Entities\obj\Debug\net6.0\Entities.AssemblyInfoInputs.cache
+C:\Users\Migersa\Desktop\ATM machine\ATM machine\Entities\obj\Debug\net6.0\Entities.AssemblyInfo.cs
+C:\Users\Migersa\Desktop\ATM machine\ATM machine\Entities\obj\Debug\net6.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\Migersa\Desktop\ATM machine\ATM machine\Entities\obj\Debug\net6.0\Entities.dll
+C:\Users\Migersa\Desktop\ATM machine\ATM machine\Entities\obj\Debug\net6.0\refint\Entities.dll
+C:\Users\Migersa\Desktop\ATM machine\ATM machine\Entities\obj\Debug\net6.0\Entities.pdb
+C:\Users\Migersa\Desktop\ATM machine\ATM machine\Entities\obj\Debug\net6.0\Entities.genruntimeconfig.cache
+C:\Users\Migersa\Desktop\ATM machine\ATM machine\Entities\obj\Debug\net6.0\ref\Entities.dll
+C:\Users\Migersa\Desktop\ATMmachine--\ATM machine\Entities\bin\Debug\net6.0\Entities.deps.json
+C:\Users\Migersa\Desktop\ATMmachine--\ATM machine\Entities\bin\Debug\net6.0\Entities.runtimeconfig.json
+C:\Users\Migersa\Desktop\ATMmachine--\ATM machine\Entities\bin\Debug\net6.0\Entities.dll
+C:\Users\Migersa\Desktop\ATMmachine--\ATM machine\Entities\bin\Debug\net6.0\Entities.pdb
+C:\Users\Migersa\Desktop\ATMmachine--\ATM machine\Entities\obj\Debug\net6.0\Entities.csproj.AssemblyReference.cache
+C:\Users\Migersa\Desktop\ATMmachine--\ATM machine\Entities\obj\Debug\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Migersa\Desktop\ATMmachine--\ATM machine\Entities\obj\Debug\net6.0\Entities.AssemblyInfoInputs.cache
+C:\Users\Migersa\Desktop\ATMmachine--\ATM machine\Entities\obj\Debug\net6.0\Entities.AssemblyInfo.cs
+C:\Users\Migersa\Desktop\ATMmachine--\ATM machine\Entities\obj\Debug\net6.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\Migersa\Desktop\ATMmachine--\ATM machine\Entities\obj\Debug\net6.0\Entities.dll
+C:\Users\Migersa\Desktop\ATMmachine--\ATM machine\Entities\obj\Debug\net6.0\refint\Entities.dll
+C:\Users\Migersa\Desktop\ATMmachine--\ATM machine\Entities\obj\Debug\net6.0\Entities.pdb
+C:\Users\Migersa\Desktop\ATMmachine--\ATM machine\Entities\obj\Debug\net6.0\Entities.genruntimeconfig.cache
+C:\Users\Migersa\Desktop\ATMmachine--\ATM machine\Entities\obj\Debug\net6.0\ref\Entities.dll
+C:\Users\Migersa\Desktop\ATMmachine--\---\ATM machine\Entities\bin\Debug\net6.0\Entities.deps.json
+C:\Users\Migersa\Desktop\ATMmachine--\---\ATM machine\Entities\bin\Debug\net6.0\Entities.runtimeconfig.json
+C:\Users\Migersa\Desktop\ATMmachine--\---\ATM machine\Entities\bin\Debug\net6.0\Entities.dll
+C:\Users\Migersa\Desktop\ATMmachine--\---\ATM machine\Entities\bin\Debug\net6.0\Entities.pdb
+C:\Users\Migersa\Desktop\ATMmachine--\---\ATM machine\Entities\obj\Debug\net6.0\Entities.csproj.AssemblyReference.cache
+C:\Users\Migersa\Desktop\ATMmachine--\---\ATM machine\Entities\obj\Debug\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Migersa\Desktop\ATMmachine--\---\ATM machine\Entities\obj\Debug\net6.0\Entities.AssemblyInfoInputs.cache
+C:\Users\Migersa\Desktop\ATMmachine--\---\ATM machine\Entities\obj\Debug\net6.0\Entities.AssemblyInfo.cs
+C:\Users\Migersa\Desktop\ATMmachine--\---\ATM machine\Entities\obj\Debug\net6.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\Migersa\Desktop\ATMmachine--\---\ATM machine\Entities\obj\Debug\net6.0\Entities.dll
+C:\Users\Migersa\Desktop\ATMmachine--\---\ATM machine\Entities\obj\Debug\net6.0\refint\Entities.dll
+C:\Users\Migersa\Desktop\ATMmachine--\---\ATM machine\Entities\obj\Debug\net6.0\Entities.pdb
+C:\Users\Migersa\Desktop\ATMmachine--\---\ATM machine\Entities\obj\Debug\net6.0\Entities.genruntimeconfig.cache
+C:\Users\Migersa\Desktop\ATMmachine--\---\ATM machine\Entities\obj\Debug\net6.0\ref\Entities.dll
+C:\Users\Migersa\Desktop\bosh\---\ATM machine\Entities\bin\Debug\net6.0\Entities.deps.json
+C:\Users\Migersa\Desktop\bosh\---\ATM machine\Entities\bin\Debug\net6.0\Entities.runtimeconfig.json
+C:\Users\Migersa\Desktop\bosh\---\ATM machine\Entities\bin\Debug\net6.0\Entities.dll
+C:\Users\Migersa\Desktop\bosh\---\ATM machine\Entities\bin\Debug\net6.0\Entities.pdb
+C:\Users\Migersa\Desktop\bosh\---\ATM machine\Entities\obj\Debug\net6.0\Entities.csproj.AssemblyReference.cache
+C:\Users\Migersa\Desktop\bosh\---\ATM machine\Entities\obj\Debug\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Migersa\Desktop\bosh\---\ATM machine\Entities\obj\Debug\net6.0\Entities.AssemblyInfoInputs.cache
+C:\Users\Migersa\Desktop\bosh\---\ATM machine\Entities\obj\Debug\net6.0\Entities.AssemblyInfo.cs
+C:\Users\Migersa\Desktop\bosh\---\ATM machine\Entities\obj\Debug\net6.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\Migersa\Desktop\bosh\---\ATM machine\Entities\obj\Debug\net6.0\Entities.dll
+C:\Users\Migersa\Desktop\bosh\---\ATM machine\Entities\obj\Debug\net6.0\refint\Entities.dll
+C:\Users\Migersa\Desktop\bosh\---\ATM machine\Entities\obj\Debug\net6.0\Entities.pdb
+C:\Users\Migersa\Desktop\bosh\---\ATM machine\Entities\obj\Debug\net6.0\Entities.genruntimeconfig.cache
+C:\Users\Migersa\Desktop\bosh\---\ATM machine\Entities\obj\Debug\net6.0\ref\Entities.dll
+C:\Users\Migersa\Desktop\ATM\---\ATM machine\Entities\bin\Debug\net6.0\Entities.deps.json
+C:\Users\Migersa\Desktop\ATM\---\ATM machine\Entities\bin\Debug\net6.0\Entities.runtimeconfig.json
+C:\Users\Migersa\Desktop\ATM\---\ATM machine\Entities\bin\Debug\net6.0\Entities.dll
+C:\Users\Migersa\Desktop\ATM\---\ATM machine\Entities\bin\Debug\net6.0\Entities.pdb
+C:\Users\Migersa\Desktop\ATM\---\ATM machine\Entities\obj\Debug\net6.0\Entities.csproj.AssemblyReference.cache
+C:\Users\Migersa\Desktop\ATM\---\ATM machine\Entities\obj\Debug\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Migersa\Desktop\ATM\---\ATM machine\Entities\obj\Debug\net6.0\Entities.AssemblyInfoInputs.cache
+C:\Users\Migersa\Desktop\ATM\---\ATM machine\Entities\obj\Debug\net6.0\Entities.AssemblyInfo.cs
+C:\Users\Migersa\Desktop\ATM\---\ATM machine\Entities\obj\Debug\net6.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\Migersa\Desktop\ATM\---\ATM machine\Entities\obj\Debug\net6.0\Entities.dll
+C:\Users\Migersa\Desktop\ATM\---\ATM machine\Entities\obj\Debug\net6.0\refint\Entities.dll
+C:\Users\Migersa\Desktop\ATM\---\ATM machine\Entities\obj\Debug\net6.0\Entities.pdb
+C:\Users\Migersa\Desktop\ATM\---\ATM machine\Entities\obj\Debug\net6.0\Entities.genruntimeconfig.cache
+C:\Users\Migersa\Desktop\ATM\---\ATM machine\Entities\obj\Debug\net6.0\ref\Entities.dll
+C:\Users\Migersa\Desktop\ProjektPune\ATM machine\Entities\bin\Debug\net6.0\Entities.deps.json
+C:\Users\Migersa\Desktop\ProjektPune\ATM machine\Entities\bin\Debug\net6.0\Entities.runtimeconfig.json
+C:\Users\Migersa\Desktop\ProjektPune\ATM machine\Entities\bin\Debug\net6.0\Entities.dll
+C:\Users\Migersa\Desktop\ProjektPune\ATM machine\Entities\bin\Debug\net6.0\Entities.pdb
+C:\Users\Migersa\Desktop\ProjektPune\ATM machine\Entities\obj\Debug\net6.0\Entities.csproj.AssemblyReference.cache
+C:\Users\Migersa\Desktop\ProjektPune\ATM machine\Entities\obj\Debug\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Migersa\Desktop\ProjektPune\ATM machine\Entities\obj\Debug\net6.0\Entities.AssemblyInfoInputs.cache
+C:\Users\Migersa\Desktop\ProjektPune\ATM machine\Entities\obj\Debug\net6.0\Entities.AssemblyInfo.cs
+C:\Users\Migersa\Desktop\ProjektPune\ATM machine\Entities\obj\Debug\net6.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\Migersa\Desktop\ProjektPune\ATM machine\Entities\obj\Debug\net6.0\Entities.dll
+C:\Users\Migersa\Desktop\ProjektPune\ATM machine\Entities\obj\Debug\net6.0\refint\Entities.dll
+C:\Users\Migersa\Desktop\ProjektPune\ATM machine\Entities\obj\Debug\net6.0\Entities.pdb
+C:\Users\Migersa\Desktop\ProjektPune\ATM machine\Entities\obj\Debug\net6.0\Entities.genruntimeconfig.cache
+C:\Users\Migersa\Desktop\ProjektPune\ATM machine\Entities\obj\Debug\net6.0\ref\Entities.dll
+C:\Users\Migersa\Desktop\New folder (2)\ATM machine\Entities\bin\Debug\net6.0\Entities.deps.json
+C:\Users\Migersa\Desktop\New folder (2)\ATM machine\Entities\bin\Debug\net6.0\Entities.runtimeconfig.json
+C:\Users\Migersa\Desktop\New folder (2)\ATM machine\Entities\bin\Debug\net6.0\Entities.dll
+C:\Users\Migersa\Desktop\New folder (2)\ATM machine\Entities\bin\Debug\net6.0\Entities.pdb
+C:\Users\Migersa\Desktop\New folder (2)\ATM machine\Entities\obj\Debug\net6.0\Entities.csproj.AssemblyReference.cache
+C:\Users\Migersa\Desktop\New folder (2)\ATM machine\Entities\obj\Debug\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Migersa\Desktop\New folder (2)\ATM machine\Entities\obj\Debug\net6.0\Entities.AssemblyInfoInputs.cache
+C:\Users\Migersa\Desktop\New folder (2)\ATM machine\Entities\obj\Debug\net6.0\Entities.AssemblyInfo.cs
+C:\Users\Migersa\Desktop\New folder (2)\ATM machine\Entities\obj\Debug\net6.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\Migersa\Desktop\New folder (2)\ATM machine\Entities\obj\Debug\net6.0\Entities.dll
+C:\Users\Migersa\Desktop\New folder (2)\ATM machine\Entities\obj\Debug\net6.0\refint\Entities.dll
+C:\Users\Migersa\Desktop\New folder (2)\ATM machine\Entities\obj\Debug\net6.0\Entities.pdb
+C:\Users\Migersa\Desktop\New folder (2)\ATM machine\Entities\obj\Debug\net6.0\Entities.genruntimeconfig.cache
+C:\Users\Migersa\Desktop\New folder (2)\ATM machine\Entities\obj\Debug\net6.0\ref\Entities.dll

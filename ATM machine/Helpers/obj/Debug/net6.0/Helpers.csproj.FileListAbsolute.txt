@@ -1,0 +1,56 @@
+C:\Users\Migersa\Desktop\ATMmachine--\ATM machine\Helpers\bin\Debug\net6.0\Helpers.deps.json
+C:\Users\Migersa\Desktop\ATMmachine--\ATM machine\Helpers\bin\Debug\net6.0\Helpers.runtimeconfig.json
+C:\Users\Migersa\Desktop\ATMmachine--\ATM machine\Helpers\bin\Debug\net6.0\Helpers.dll
+C:\Users\Migersa\Desktop\ATMmachine--\ATM machine\Helpers\bin\Debug\net6.0\Helpers.pdb
+C:\Users\Migersa\Desktop\ATMmachine--\ATM machine\Helpers\obj\Debug\net6.0\Helpers.csproj.AssemblyReference.cache
+C:\Users\Migersa\Desktop\ATMmachine--\ATM machine\Helpers\obj\Debug\net6.0\Helpers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Migersa\Desktop\ATMmachine--\ATM machine\Helpers\obj\Debug\net6.0\Helpers.AssemblyInfoInputs.cache
+C:\Users\Migersa\Desktop\ATMmachine--\ATM machine\Helpers\obj\Debug\net6.0\Helpers.AssemblyInfo.cs
+C:\Users\Migersa\Desktop\ATMmachine--\ATM machine\Helpers\obj\Debug\net6.0\Helpers.csproj.CoreCompileInputs.cache
+C:\Users\Migersa\Desktop\ATMmachine--\ATM machine\Helpers\obj\Debug\net6.0\Helpers.dll
+C:\Users\Migersa\Desktop\ATMmachine--\ATM machine\Helpers\obj\Debug\net6.0\refint\Helpers.dll
+C:\Users\Migersa\Desktop\ATMmachine--\ATM machine\Helpers\obj\Debug\net6.0\Helpers.pdb
+C:\Users\Migersa\Desktop\ATMmachine--\ATM machine\Helpers\obj\Debug\net6.0\Helpers.genruntimeconfig.cache
+C:\Users\Migersa\Desktop\ATMmachine--\ATM machine\Helpers\obj\Debug\net6.0\ref\Helpers.dll
+C:\Users\Migersa\Desktop\ATMmachine--\---\ATM machine\Helpers\bin\Debug\net6.0\Helpers.deps.json
+C:\Users\Migersa\Desktop\ATMmachine--\---\ATM machine\Helpers\bin\Debug\net6.0\Helpers.runtimeconfig.json
+C:\Users\Migersa\Desktop\ATMmachine--\---\ATM machine\Helpers\bin\Debug\net6.0\Helpers.dll
+C:\Users\Migersa\Desktop\ATMmachine--\---\ATM machine\Helpers\bin\Debug\net6.0\Helpers.pdb
+C:\Users\Migersa\Desktop\ATMmachine--\---\ATM machine\Helpers\obj\Debug\net6.0\Helpers.csproj.AssemblyReference.cache
+C:\Users\Migersa\Desktop\ATMmachine--\---\ATM machine\Helpers\obj\Debug\net6.0\Helpers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Migersa\Desktop\ATMmachine--\---\ATM machine\Helpers\obj\Debug\net6.0\Helpers.AssemblyInfoInputs.cache
+C:\Users\Migersa\Desktop\ATMmachine--\---\ATM machine\Helpers\obj\Debug\net6.0\Helpers.AssemblyInfo.cs
+C:\Users\Migersa\Desktop\ATMmachine--\---\ATM machine\Helpers\obj\Debug\net6.0\Helpers.csproj.CoreCompileInputs.cache
+C:\Users\Migersa\Desktop\ATMmachine--\---\ATM machine\Helpers\obj\Debug\net6.0\Helpers.dll
+C:\Users\Migersa\Desktop\ATMmachine--\---\ATM machine\Helpers\obj\Debug\net6.0\refint\Helpers.dll
+C:\Users\Migersa\Desktop\ATMmachine--\---\ATM machine\Helpers\obj\Debug\net6.0\Helpers.pdb
+C:\Users\Migersa\Desktop\ATMmachine--\---\ATM machine\Helpers\obj\Debug\net6.0\Helpers.genruntimeconfig.cache
+C:\Users\Migersa\Desktop\ATMmachine--\---\ATM machine\Helpers\obj\Debug\net6.0\ref\Helpers.dll
+C:\Users\Migersa\Desktop\ProjektPune\ATM machine\Helpers\bin\Debug\net6.0\Helpers.deps.json
+C:\Users\Migersa\Desktop\ProjektPune\ATM machine\Helpers\bin\Debug\net6.0\Helpers.runtimeconfig.json
+C:\Users\Migersa\Desktop\ProjektPune\ATM machine\Helpers\bin\Debug\net6.0\Helpers.dll
+C:\Users\Migersa\Desktop\ProjektPune\ATM machine\Helpers\bin\Debug\net6.0\Helpers.pdb
+C:\Users\Migersa\Desktop\ProjektPune\ATM machine\Helpers\obj\Debug\net6.0\Helpers.csproj.AssemblyReference.cache
+C:\Users\Migersa\Desktop\ProjektPune\ATM machine\Helpers\obj\Debug\net6.0\Helpers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Migersa\Desktop\ProjektPune\ATM machine\Helpers\obj\Debug\net6.0\Helpers.AssemblyInfoInputs.cache
+C:\Users\Migersa\Desktop\ProjektPune\ATM machine\Helpers\obj\Debug\net6.0\Helpers.AssemblyInfo.cs
+C:\Users\Migersa\Desktop\ProjektPune\ATM machine\Helpers\obj\Debug\net6.0\Helpers.csproj.CoreCompileInputs.cache
+C:\Users\Migersa\Desktop\ProjektPune\ATM machine\Helpers\obj\Debug\net6.0\Helpers.dll
+C:\Users\Migersa\Desktop\ProjektPune\ATM machine\Helpers\obj\Debug\net6.0\refint\Helpers.dll
+C:\Users\Migersa\Desktop\ProjektPune\ATM machine\Helpers\obj\Debug\net6.0\Helpers.pdb
+C:\Users\Migersa\Desktop\ProjektPune\ATM machine\Helpers\obj\Debug\net6.0\Helpers.genruntimeconfig.cache
+C:\Users\Migersa\Desktop\ProjektPune\ATM machine\Helpers\obj\Debug\net6.0\ref\Helpers.dll
+C:\Users\Migersa\Desktop\New folder (2)\ATM machine\Helpers\bin\Debug\net6.0\Helpers.deps.json
+C:\Users\Migersa\Desktop\New folder (2)\ATM machine\Helpers\bin\Debug\net6.0\Helpers.runtimeconfig.json
+C:\Users\Migersa\Desktop\New folder (2)\ATM machine\Helpers\bin\Debug\net6.0\Helpers.dll
+C:\Users\Migersa\Desktop\New folder (2)\ATM machine\Helpers\bin\Debug\net6.0\Helpers.pdb
+C:\Users\Migersa\Desktop\New folder (2)\ATM machine\Helpers\obj\Debug\net6.0\Helpers.csproj.AssemblyReference.cache
+C:\Users\Migersa\Desktop\New folder (2)\ATM machine\Helpers\obj\Debug\net6.0\Helpers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Migersa\Desktop\New folder (2)\ATM machine\Helpers\obj\Debug\net6.0\Helpers.AssemblyInfoInputs.cache
+C:\Users\Migersa\Desktop\New folder (2)\ATM machine\Helpers\obj\Debug\net6.0\Helpers.AssemblyInfo.cs
+C:\Users\Migersa\Desktop\New folder (2)\ATM machine\Helpers\obj\Debug\net6.0\Helpers.csproj.CoreCompileInputs.cache
+C:\Users\Migersa\Desktop\New folder (2)\ATM machine\Helpers\obj\Debug\net6.0\Helpers.dll
+C:\Users\Migersa\Desktop\New folder (2)\ATM machine\Helpers\obj\Debug\net6.0\refint\Helpers.dll
+C:\Users\Migersa\Desktop\New folder (2)\ATM machine\Helpers\obj\Debug\net6.0\Helpers.pdb
+C:\Users\Migersa\Desktop\New folder (2)\ATM machine\Helpers\obj\Debug\net6.0\Helpers.genruntimeconfig.cache
+C:\Users\Migersa\Desktop\New folder (2)\ATM machine\Helpers\obj\Debug\net6.0\ref\Helpers.dll
